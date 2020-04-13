@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - gl_wifi_info (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `.symlinks/flutter/ios`)
+  - gl_wifi_info (from `.symlinks/plugins/gl_wifi_info/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+  gl_wifi_info:
+    :path: ".symlinks/plugins/gl_wifi_info/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  gl_wifi_info: 75b2c95f22ed9ed8f29265db1daa33a673701643
+
+PODFILE CHECKSUM: 7fb83752f59ead6285236625b82473f90b1cb932
+
+COCOAPODS: 1.6.1
